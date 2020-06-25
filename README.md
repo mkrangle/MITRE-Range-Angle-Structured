@@ -2,7 +2,7 @@
 
 **Overview:**
 
-This dataset contains measurements following the [_MITLL Range-Angle Collection Protocol_](https://mitll.github.io/PACT/files/Structured%20Contact%20Tracing%20Protocol,%20V.%202.0%20(1.5).pdf) collected by MITRE employees.
+This dataset contains measurements following the [_MIT Lincoln Laboratory Range-Angle Collection Protocol_](https://mitll.github.io/PACT/files/Structured%20Contact%20Tracing%20Protocol,%20V.%202.0%20(1.5).pdf) collected by MITRE employees.
 
 Refer to Index.xlsx for a summary of data sets. 
 
